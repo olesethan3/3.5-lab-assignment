@@ -1,7 +1,14 @@
 ---
 layout: layout.liquid
-title: About
+title: About Page
 ---
-
-# About the 11ty **Boilerplate**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+# About Me
+![Photo of Me](/images/Ethanimage.jpg)<br/><br/>
+Hi, my name is Ethan and I am Space Exploration Enthustiast <br/><br/> I Enjoy writing blogs about my experiences while traveling through space.
+## Education
+                   * I graduated from Earth University with a Bachelor's Degree in Space Exploration.
+## Hobbies
+                   * I enjoy playing and watching football. <br/>
+                   * Writing books, articles, and blogs. <br/>
+                   * Learning about history. <br/>
+                   * Walking on the moon. <br/>
