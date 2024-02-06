@@ -12,3 +12,4 @@ Hi, my name is Ethan and I am Space Exploration Enthustiast <br/><br/> I Enjoy w
                    * Writing books, articles, and blogs. <br/>
                    * Learning about history. <br/>
                    * Walking on the moon. <br/>
+{% name 'This is a fictional blog project By Ethan Oles.'%}

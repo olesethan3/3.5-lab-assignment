@@ -16,3 +16,4 @@ Recently, I went to Kepler 452b which is sometimes called "Earth 2.0. I was curi
 I wrote more about my experience in my blog linked below.<br/><br/>
 [View](/kepler)
 ![Photo of Kepler 452b](/images/keplerimg.jpg)
+{% name 'This is a fictional blog project By Ethan Oles.'%}
